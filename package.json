@@ -1,0 +1,34 @@
+{
+  "name": "novent-project-boilerplate",
+  "version": "0.0.1",
+  "description": "Exemple of project using the Novent engine.",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "serve": "cd target/site && python -m SimpleHTTPServer 8000",
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oniri/novent-project-boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oniri/novent-project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Oniri/novent-project-boilerplate#readme",
+  "dependencies": {
+    "novent-engine": "0.0.3"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-zip": "^4.0.0"
+  }
+}

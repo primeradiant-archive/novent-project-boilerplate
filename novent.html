@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Novent</title>
+  <!-- inject:css -->
+  <!-- endinject -->
+  <style>
+    #novent-button-container {
+      justify-content: center;
+      flex-direction: column;
+      display: flex;
+      align-items: center;
+      align-content: center;
+      position: absolute;
+      bottom: 20px;
+      height: 50px;
+      width: 50px;
+      left: 0;
+      right: 0;
+      margin: auto;
+      z-index: 1;
+      opacity: 1;
+      transition: opacity 1s ease-out;
+    }
+    #novent-button-container.hidden {
+      opacity: 0;
+    }
+    #novent-button-container #novent-button {
+      height: 40px;
+      width: 40px;
+      border: 5px solid white;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+    #novent-button-container.hidden #novent-button {
+      cursor: default;
+    }
+  </style>
+</head>
+<body style="background: black;">
+  <canvas></canvas>
+  <div id="novent-button-container" class="hidden">
+      <div id="novent-button"></div>
+  </div>
+  <script src="novent.js"></script>
+  <script>
+    var button = document.getElementById("novent-button");
+    var buttonContainer = document.getElementById("novent-button-container");
+    button.addEventListener("click", buttonClick, false);
+
+    function buttonClick() {
+        buttonContainer.className = "hidden";
+        NoventEngine.novent().play()
+        .then(function() {
+          if(NoventEngine.novent().index !== NoventEngine.novent().pages.length)
+            buttonContainer.className = "";
+        });
+    }
+
+    buttonClick();
+
+  </script>
+</body>
+</html>
