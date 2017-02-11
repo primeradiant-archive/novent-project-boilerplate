@@ -1,0 +1,355 @@
+/* devanagari */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amita'), local('Amita-Regular'), url(https://fonts.gstatic.com/s/amita/v1/CwM2O5OR7M6EzW4f9jB464DGDUGfDkXyfkzVDelzfFk.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amita'), local('Amita-Regular'), url(https://fonts.gstatic.com/s/amita/v1/H3qL8Z-FYbDE_kazNah33IDGDUGfDkXyfkzVDelzfFk.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amita'), local('Amita-Regular'), url(https://fonts.gstatic.com/s/amita/v1/ADCSyjnzrEMI3x-tqYyiHaCWcynf_cDxXwCLxiixG1c.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Amita Bold'), local('Amita-Bold'), url(https://fonts.gstatic.com/s/amita/v1/fIbdDFpOKGgFqNC752SD6RkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Amita Bold'), local('Amita-Bold'), url(https://fonts.gstatic.com/s/amita/v1/LSADhTBirfq7ZGqP8gLqDBkAz4rYn47Zy2rvigWQf6w.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Amita';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Amita Bold'), local('Amita-Bold'), url(https://fonts.gstatic.com/s/amita/v1/xih-5WwEC1H2P3qJbGKjlnYhjbSpvc47ee6xR_80Hnw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 300;
+  src: local('InknutAntiqua-Light'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIu4d_gATc2Ss3ll7ZHVZxog.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 300;
+  src: local('InknutAntiqua-Light'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIlLmepe_3sLdUFBROUuCsT4.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 300;
+  src: local('InknutAntiqua-Light'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIiKAc86OwMdt4x77OExv94g.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 400;
+  src: local('InknutAntiqua-Regular'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/VlmmTfOrxr3HfcnhMueX9bdkbqOJuiM47cWeJ_SLmGk.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 400;
+  src: local('InknutAntiqua-Regular'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/VlmmTfOrxr3HfcnhMueX9XkP1kfZFdzSip_1OOXujIM.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 400;
+  src: local('InknutAntiqua-Regular'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/VlmmTfOrxr3HfcnhMueX9aeO3wbbq8mdDcGxwxDM3wA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 500;
+  src: local('InknutAntiqua-Medium'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVItHuczPL1nT8sKYmoBWXPNQ.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 500;
+  src: local('InknutAntiqua-Medium'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIuV46szhgim70JY62Z8Yq30.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 500;
+  src: local('InknutAntiqua-Medium'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIjpbUyb4vly_tjlhLafwjQE.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 600;
+  src: local('InknutAntiqua-SemiBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIkhpfcgb6t94txyKCpyauZ8.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 600;
+  src: local('InknutAntiqua-SemiBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIjasDMlsQ091whbHO3D0hvY.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 600;
+  src: local('InknutAntiqua-SemiBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVItWlZSP1AbnmQl6aNhGd-xA.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 700;
+  src: local('InknutAntiqua-Bold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVItYXndBw0C6o4KuiDVts3nY.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 700;
+  src: local('InknutAntiqua-Bold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIn9ZWcnXwKsKnTuxieDdeKM.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 700;
+  src: local('InknutAntiqua-Bold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIsjCRL9_sh8fifAgw5EsvS8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 800;
+  src: local('InknutAntiqua-ExtraBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIhyylJi42QnXqmMyIxtzgZs.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 800;
+  src: local('InknutAntiqua-ExtraBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIoR__uOx-RuFL5tOkzwPRmo.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 800;
+  src: local('InknutAntiqua-ExtraBold'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIvQv0Cv0N1LuhqswcnWwqFY.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 900;
+  src: local('InknutAntiqua-Black'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIsQ1jyEuvRlzvhc3yJJT7hY.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 900;
+  src: local('InknutAntiqua-Black'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIvK4XZcaojdrrMHmrZoT0Xk.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inknut Antiqua';
+  font-style: normal;
+  font-weight: 900;
+  src: local('InknutAntiqua-Black'), url(https://fonts.gstatic.com/s/inknutantiqua/v1/CagoW52rBcslcXzHh6tVIj7pSChgHv9chvRj95qG2qk.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/* devanagari */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Halant Light'), local('Halant-Light'), url(https://fonts.gstatic.com/s/halant/v2/EwBiHqOGr5Blz6C2DHObV4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Halant Light'), local('Halant-Light'), url(https://fonts.gstatic.com/s/halant/v2/avoLSv6G0X_26gCDX05CooX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Halant Light'), local('Halant-Light'), url(https://fonts.gstatic.com/s/halant/v2/Xu5LrOMBL0Zr10_6KDVgIJBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Halant'), local('Halant-Regular'), url(https://fonts.gstatic.com/s/halant/v2/6uCBxTfYNqfGBnkCF67-r3-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Halant'), local('Halant-Regular'), url(https://fonts.gstatic.com/s/halant/v2/khajQ-2ikbYj6pF4Knh3B3-_kf6ByYO6CLYdB4HQE-Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Halant'), local('Halant-Regular'), url(https://fonts.gstatic.com/s/halant/v2/mZpXEouvK6zSLIYSbXCHP-vvDin1pK8aKteLpeZ5c0A.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Halant Medium'), local('Halant-Medium'), url(https://fonts.gstatic.com/s/halant/v2/eYp_oAdY04_llnWywW7IT4X0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Halant Medium'), local('Halant-Medium'), url(https://fonts.gstatic.com/s/halant/v2/uzprPzvycQJ2_1m_U4SZzoX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Halant Medium'), local('Halant-Medium'), url(https://fonts.gstatic.com/s/halant/v2/lTgFaoG1PTDBTdlZRHrMq5Bw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Halant Semibold'), local('Halant-Semibold'), url(https://fonts.gstatic.com/s/halant/v2/hxInlunOTjO321gby1gOroX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Halant Semibold'), local('Halant-Semibold'), url(https://fonts.gstatic.com/s/halant/v2/9T_Msi2OHRMK_oBspH5ILIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Halant Semibold'), local('Halant-Semibold'), url(https://fonts.gstatic.com/s/halant/v2/1Bn2ieBRu5B49v4PrWNaiZBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* devanagari */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Halant Bold'), local('Halant-Bold'), url(https://fonts.gstatic.com/s/halant/v2/KB72rK__R-_f2BhQ4NEfEYX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+02BC, U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200B-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Halant Bold'), local('Halant-Bold'), url(https://fonts.gstatic.com/s/halant/v2/XkTDyS03GNqrBHkcKb5kgIX0hVgzZQUfRDuZrPvH3D8.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Halant';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Halant Bold'), local('Halant-Bold'), url(https://fonts.gstatic.com/s/halant/v2/x5gFr9GI9mLCAodAYf25Q5Bw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Tangerine'), url(https://fonts.gstatic.com/s/tangerine/v7/HGfsyCL5WASpHOFnouG-RJBw1xU1rKptJj_0jans920.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin */
+@font-face {
+  font-family: 'Tangerine';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Tangerine Bold'), local('Tangerine-Bold'), url(https://fonts.gstatic.com/s/tangerine/v7/UkFsr-RwJB_d2l9fIWsx3hampu5_7CjHW5spxoeN3Vs.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
